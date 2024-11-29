@@ -6,7 +6,7 @@ Adds a way harder 6th difficulty to the game
 - Healing strength of all items roughly halved
 - bonus lives set to 1
 - Multiplied prices by 3
-- the comeback heal now triggers after cilling an enemy
+- the comeback heal now triggers after killing an enemy
 - Enemy speed +30%
 - getting hit reduces max health by 1
 - Roughly halved chest spawn rate
